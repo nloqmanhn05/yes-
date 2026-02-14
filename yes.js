@@ -90,7 +90,7 @@ yesButton.addEventListener('click', () => {
         // Success state
         gifImage.src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRvaGZkY3hpd3prN3duZnRqY3Nxcjh0NnJsenk0aGF4a3E4a3N6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ieJXRlUHIGnkVWqhIh/giphy.gif";
         gifImage.style.maxWidth = "100%";
-        headerText.textContent = "thank you , this is jsut a joke";
+        headerText.textContent = "thank you , I just joking, Im busy by the way";
         
         // Reset Yes button appearance
         yesButton.style.transform = 'scale(1)';
